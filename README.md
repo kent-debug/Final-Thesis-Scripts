@@ -41,7 +41,11 @@ Outputs: thematic summaries and word clouds informing community-level interventi
 
 
 Key Results
-ModelZD F1PV F1FI F1Logistic Regression1.000.710.89Support Vector Machine0.940.740.71Gradient Boosting1.000.710.83Random Forest (Best)0.970.740.94
+Model ZD F1PV F1FI F1
+Logistic Regression1.000.710.89
+Support Vector Machine0.940.740.71
+Gradient Boosting1.000.710.83
+Random Forest (Best)0.970.740.94
 Key finding: Health system experiential factors — negative health worker attitudes (p=0.013) and long waiting times (p=0.021) — were stronger predictors of zero-dose status than geographic distance (p=0.3145, not significant).
 
 Technical Stack
